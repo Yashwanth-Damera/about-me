@@ -8,7 +8,7 @@
 
 ## About:
 
-This repository is usefull to publish websites,A repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history.
+This repository is usefull to publish websites,a repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history.
 
 ## Recommended Tools
 
