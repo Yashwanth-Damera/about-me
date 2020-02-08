@@ -2,16 +2,16 @@
       .navLinks {
         list-style-type: none;
         margin: 0;
-        padding: 0;
-        width: =100%;
+        padding: 0px;
+        width: 100%;
         overflow: hidden;
         background-color:black;
         position: -webkit-sticky;
         position: sticky;
         top: 0;
- 
+        height: 50px;
     }
-    .navLinks li {
+    .navLinks li  {
       float: left;
     }
 
@@ -21,6 +21,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
 
 .navLinks li a:hover {
@@ -60,4 +61,13 @@
 
    .profile {
      font-size: large;
+     display: table-row;
+     float: inline-end;
+     
    }
+
+ 
+
+
+  
+   

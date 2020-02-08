@@ -2,7 +2,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: =100%;
+  width: 100%;
   overflow: hidden;
   background-color:black;
   position: -webkit-sticky;
@@ -10,6 +10,8 @@
   top: 0;
 
 }
+
+
 .navLinks li {
 float: left;
 }
@@ -26,12 +28,12 @@ text-decoration: none;
 background-color:gray;
 }
 
-.active{
+.active {
 background-color: rgb(7, 100, 7);
 
 }
 
-input[type=text]{
+input[type=text] {
     width: 10%;
     padding: 5px 20px;
     margin: 8px 0;
@@ -39,7 +41,7 @@ input[type=text]{
     border: 2px solid;
     
   }
-  input[type=number]{
+  input[type=number] {
     width: 10%;
     padding: 5px 20px;
     margin: 8px 0;
@@ -50,6 +52,7 @@ input[type=text]{
   .form {
 
       font-weight: Solid ;
+      padding: 12px 20px;
   }
 
   .center {
@@ -59,11 +62,11 @@ input[type=text]{
     border-radius: 80%;
   }
 
-  .button_class{
+  .button_class {
     padding: 0px 0px;
     text-align: center;
     display: inline-block;
-    font-size: 30px;
+    font-size: 15px;
     margin: 4px 2px;
     cursor: pointer;
   }
