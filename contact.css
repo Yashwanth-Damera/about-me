@@ -1,16 +1,17 @@
 .navLinks {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:black;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: =100%;
+  overflow: hidden;
+  background-color:black;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 
 }
 .navLinks li {
-  float: left;
+float: left;
 }
 
 .navLinks li a {
