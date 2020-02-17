@@ -24,6 +24,10 @@
   
 }
 
+.flex-container {
+  display: flex;
+}
+
 .navLinks li a:hover {
   background-color:gray;
 }
